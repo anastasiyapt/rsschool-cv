@@ -8,7 +8,7 @@
 
 ## Summary
 
-A junior from end developer eager to master HTML, CSS and JS.
+A junior front end developer eager to master HTML, CSS and JS.
 
 ## Skills
 
